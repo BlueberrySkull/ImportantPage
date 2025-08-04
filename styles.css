@@ -1,0 +1,11 @@
+#menu {
+color: red;
+font-size: 32px;
+}
+#skills {
+color: yellow;
+}
+
+article > p {
+color: green;
+}
